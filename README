@@ -1,0 +1,8 @@
+clean is simply a tool for frequent cleanup things that you might want to do.
+
+Current features:
+none
+
+Future features:
+get rid of those stupid vim ~ files
+run make clean if there's a makefile
