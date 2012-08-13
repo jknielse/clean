@@ -6,3 +6,4 @@
 #Remove residual vim files
 rm *~ &> /dev/null
 rm .*.swp &> /dev/null
+rm .*.swo &> /dev/null
